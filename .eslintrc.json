@@ -1,0 +1,10 @@
+{
+  "env": {
+    "jest": true,
+    "node": true,
+    "browser": true
+  },
+  "extends": ["eslint:recommended", "plugin:jest/recommended"],
+  "plugins": ["jest"],
+  "rules": {}
+}
